@@ -1,0 +1,9 @@
+﻿  main.cpp
+N:\GIthubFiles\OPEN_GL\Project111\Project111\main.cpp(51,62): error C2440: 'initializing': cannot convert from 'const char [1]' to 'char'
+N:\GIthubFiles\OPEN_GL\Project111\Project111\main.cpp(51,60): message : There is no context in which this conversion is possible
+N:\GIthubFiles\OPEN_GL\Project111\Project111\main.cpp(53,57): error C2664: 'void (GLuint,GLsizei,GLsizei *,GLchar *)': cannot convert argument 3 from 'const char **' to 'GLsizei *'
+N:\GIthubFiles\OPEN_GL\Project111\Project111\main.cpp(53,32): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+N:\GIthubFiles\OPEN_GL\Project111\Project111\main.cpp(56,15): error C2374: 'Fshader': redefinition; multiple initialization
+N:\GIthubFiles\OPEN_GL\Project111\Project111\main.cpp(52): message : see declaration of 'Fshader'
+N:\GIthubFiles\OPEN_GL\Project111\Project111\main.cpp(57,56): error C2664: 'void (GLuint,GLsizei,const GLchar *const *,const GLint *)': cannot convert argument 3 from 'const char *' to 'const GLchar *const *'
+N:\GIthubFiles\OPEN_GL\Project111\Project111\main.cpp(57,29): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
